@@ -6,11 +6,12 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-header">
-        <h1 className="navbar-title">My Website Title</h1> {/* H1 Element */}
+        <h1 className="navbar-title">@MATEJ_KLEMENCIC</h1> {/* H1 Element */}
         <ul className="navbar-links">
-        <Link to="/">Home</Link>
-      <Link to="/projekti">Projekti</Link>
-      <Link to="/kontakt">Kontakt</Link>
+        <Link to="/">INFO</Link>
+        <Link to="/projekti">PROJEKTI</Link>
+        <Link to="/kontakt">KONTAKT</Link>
+        
 
         </ul>
       </div>
