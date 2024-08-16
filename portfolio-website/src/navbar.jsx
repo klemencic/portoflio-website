@@ -11,6 +11,8 @@ const Navbar = () => {
         <Link to="/">INFO</Link>
         <Link to="/projekti">PROJEKTI</Link>
         <Link to="/kontakt">KONTAKT</Link>
+        <a>DOWNLOAD CV [SLO]</a>
+        <a>DOWNLOAD CV [ENG]</a>
         
 
         </ul>

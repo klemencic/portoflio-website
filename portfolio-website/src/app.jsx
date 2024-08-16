@@ -1,7 +1,7 @@
 import Navbar from './navbar';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import Projekti from './projekti'
-import Home from './o-meni'
+import Home from './info'
 import Kontakt from './kontakt'
 
 const App = () => {
